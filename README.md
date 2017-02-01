@@ -1,8 +1,8 @@
 ##Основные компоненты
 
-    Main engine (*.exe) - работа с системными вызовами, связь клиент/сервер.			 //Сеть
-    Renderer module (renderer.dll) - OpenGl 3.2 + SDL2. Можем рассмотреть вариант с OGRE.	 //Рендер
-    Game module (game.dll) - игровой контент, логика и т.д. .					 //Логика
+    Main engine (*.exe) - работа с системными вызовами, связь клиент/сервер.					//Сеть
+    Renderer module (renderer.dll) - OpenGl 3.2 + SDL2. Можем рассмотреть вариант с OGRE.		//Рендер
+    Game module (game.dll) - игровой контент, логика и т.д. .									//Логика
 
 ![](http://s8.hostingkartinok.com/uploads/images/2017/02/e1296810582cb8810756560330b0597f.png)
 
