@@ -60,8 +60,10 @@ OpenGL 3.2 поддерживают уже все видеокарты (даже
 
 #Дополнительно.
 
-GUI - [MyGUI](http://mygui.info/).	
+GUI - [MyGUI](http://mygui.info/).
+
 Физика - [Bullett](http://bulletphysics.org/).
+
 Звук - [OpenAL](http://www.openal.org//).
 
 Остальные инструменты обсудим в конфе.
